@@ -1,0 +1,31 @@
+
+font {
+  font-family: 'Vidaloka', serif;
+}
+#div1 {
+  text-align: center;
+  font-family: 'Satisfy', cursive;
+}
+#div2 {
+  text-align: center;
+  font-family: 'Satisfy', cursive;
+}
+#div3{
+  text-align: center;
+  font-family: 'Satisfy', cursive;
+}
+
+#bottom{
+  text-align: center;
+  padding: 10px;
+  height:100px;
+  width:400px;
+}
+
+#activities{
+  position: relative;
+  top: 30px;
+}
+body {
+  background-color: rgb(187, 191, 250);
+}
